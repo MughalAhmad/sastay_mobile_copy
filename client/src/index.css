@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer utilities {
+ .space_betweeen_card{
+  @apply flex flex-col gap-8;
+ }
+ .space_betweeen_only{
+  @apply flex md:flex-col gap-8;
+}
+  .space_betweeen{
+    @apply flex flex-col gap-8 px-6 md:px-12 lg:px-24;
+ }
+ .remove_space_betweeen{
+  @apply -mx-6 md:-mx-12 lg:-mx-24;
+ }
+ .maxWidth{
+  @apply max-w-[1440px] m-auto;
+ }
+}
+@layer base {
+  
+    /* light theme for future use */
+    :root {
+      --background-top-banner: #33363E;
+      --color-top-banner: #ffffff;
+      --background-navbar-menu: #25D366;
+      --background-top-header: #f1f1f1;
+      --primary-color: #25D366;
+      --dash: #33363E;
+      --simple-color: #000000;
+      --about-sale: #F2F2F2;
+      --revers-simple-color: #ffffff;
+      --show-case-filter: #E8E8E8;
+
+      --zinc-700: #33363E;
+      --zinc-900: #141518;
+      --neutral-300: #BEBEBE;
+      --neutral-500: #868686;
+      --stone-300: #d8d6d4;
+
+    }
+    .dark {
+        --background-top-banner: #D1ED00;
+        --color-top-banner: #000000;
+        --background-navbar-menu: #33363E;
+        --background-top-header: #33363e;
+        --primary-color: #D1ED00;
+        --dash: #B5B5B5;
+        --simple-color: #ffffff;
+        --about-sale: #141518;
+        --revers-simple-color: #000000;
+        --show-case-filter: #141518;
+
+    }
+  
+  }
+  
+  * {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }

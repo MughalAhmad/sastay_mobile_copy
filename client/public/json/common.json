@@ -1,0 +1,177 @@
+{
+"topBanner":"Buy All Products online at Best Prices",
+"menu":[
+      {
+        "name": "SALES",
+        "link": "/"
+      },
+      {
+        "name": "PHONES",
+        "link": "#",
+        "submenu": [
+          { "name": "Web Design", "link": "/products" },
+          { "name": "SEO", "link": "/products" },
+          { "name": "Marketing", "link": "/products" }
+        ]
+      },
+      {
+        "name": "TABLETS",
+        "link": "#",
+        "submenu": [
+          { "name": "Web Design", "link": "/products" },
+          { "name": "SEO", "link": "/products" },
+          { "name": "Marketing", "link": "/products" }
+        ]
+      },
+      {
+        "name": "ACCESSORIES",
+        "link": "#",
+        "submenu": [
+          { "name": "Web Design", "link": "/products" },
+          { "name": "SEO", "link": "/products" },
+          { "name": "Marketing", "link": "/products" }
+        ]
+      },
+      {
+        "name": "CAREER",
+        "link": "#"
+      },
+      {
+        "name": "REGISTRATION",
+        "link": "#"
+      },
+      {
+        "name": "Dashboard",
+        "link": "/dashboard"
+      },
+      {
+        "name": "ORDERS",
+        "link": "#"
+      },
+      {
+        "name": "CONTACT   US",
+        "link": "#"
+      }
+    ],
+  "header":{
+    "logo":"../svg/logo_svg.svg",
+    "btnText":"Search"
+  },
+  "footerData":{
+    "heading":"SIGNUP FOR OUR NEWSLETTER",
+    "btnText":"SUBMIT",
+    "collection":{
+      "title":"COLLECTION",
+      "list":[
+        {
+          "name":"Apple Mobiles",
+          "link":""
+        },
+        {
+          "name":"Samsung Mobiles",
+          "link":""
+        },
+        {
+          "name":"Xiaomi Mobiles",
+          "link":""
+        },
+        {
+          "name":"Tecno Mobiles",
+          "link":""
+        },
+        {
+          "name":"TCL Mobiles",
+          "link":""
+        },
+        {
+          "name":"Huawei Mobiles",
+          "link":""
+        },
+        {
+          "name":"iTel Mobiles",
+          "link":""
+        }
+      ]
+    },
+    "customerCasre":{
+      "title":"CUSTOMER CARE",
+      "list":[
+        {
+          "name":"My Account",
+          "link":""
+        },
+        {
+          "name":"Contact Us",
+          "link":""
+        },
+        {
+          "name":"About Us",
+          "link":"/aboutus"
+        },
+        {
+          "name":"How to Order",
+          "link":"/howtoorder"
+        },
+        {
+          "name":"FAQs",
+          "link":"/faqs"
+        },
+        {
+          "name":"Blogs",
+          "link":"/blogs"
+        }
+      ]
+    },
+    "policies":{
+      "title":"POLICIES",
+      "list":[
+        {
+          "name":"Shipping & Cancellation Policy",
+          "link":""
+        },
+        {
+          "name":"Return Policy",
+          "link":""
+        },
+        {
+          "name":"Privacy Policy",
+          "link":""
+        },
+        {
+          "name":"Privacy Policy",
+          "link":""
+        }
+      ]
+    },
+    "followUs":{
+      "title":"FOLLOW US ON",
+      "list":[
+        {
+          "icon":"../svg/common/footer_fb_svg.svg",
+          "name":"Facebook",
+          "link":""
+        },
+        {
+          "icon":"../svg/common/footer_ins_svg.svg",
+          "name":"Instagram",
+          "link":""
+        },
+        {
+          "icon":"../svg/common/footer_yt_svg.svg",
+          "name":"Youtube",
+          "link":""
+        },
+        {
+          "icon":"",
+          "name":"UAN: +92 320 4409368",
+          "link":""
+        }
+      ]
+    },
+     "bankImg":"../svg/common/footer_bank_svg.svg",
+    "text1":"The Biggest Store for Online Mobile Shopping in UAE",
+    "text2":"LOGO Pakistan is one of the pioneers of presenting the idea of mobile shopping online in UAE. It is not only about providing them the very best prices which they can find anyplace, but it's about the customer-friendly answers to their issues and building a connection with them. A one stop shop for all authentic products.",
+    "text3":"LOGO Pakistan online mobile shopping store is not only restricted to a number of the significant cities but delivers all around Pakistan. So, no matter wherever you're, enjoy the hassle-free experience as you shop comfortably from anywhere in UAE, as LOGO delivers nationwide with the same ease for everyone.",
+    "copyRight":"C 2022 AIRKART.AII Right Reserved."
+  }
+  }

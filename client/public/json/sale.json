@@ -1,0 +1,139 @@
+{
+    "mainBanner":["../svg/main_banner_svg.svg"],
+    "hotProducts":{
+        "title":"What's Hot",
+        "sunTitle":"Limited Time, Unlimited Excitement!",
+        "mainBanner":["../svg/hot_product_main_svg.svg"],
+        "images":["../svg/hot_product_l_svg.svg", "../svg/hot_product_r_svg.svg"],
+         "firstImg":["../svg/first_hot_product_svg.svg"],
+         "list":[
+            {
+                "image":"https://tse4.mm.bing.net/th?id=OIP.HxV79tFMPfBAIo0BBF-sOgHaEy&pid=Api&P=0&h=220",
+                "caption": "This is the first slide"
+            },
+            {
+                "image":
+                  "https://tse3.mm.bing.net/th?id=OIP.0B8FoaGmIdKyEQwRSy26ngHaEK&pid=Api&P=0&h=220",
+                "caption": "This is the second slide"
+              },
+              {
+                "image":
+                  "https://tse3.mm.bing.net/th?id=OIP.U_VJuupQohwnzXcKMztqWgHaEo&pid=Api&P=0&h=220",
+                "caption": "This is the third slide"
+              }
+         ]
+    },
+    "newArrival":{
+        "title":"New Arrivals",
+        "sunTitle":"The Wait is Over – Discover What's New!",
+         "list":[
+            {
+                "image":"https://tse4.mm.bing.net/th?id=OIP.HxV79tFMPfBAIo0BBF-sOgHaEy&pid=Api&P=0&h=220",
+                "caption": "This is the first slide"
+            },
+            {
+                "image":
+                  "https://tse3.mm.bing.net/th?id=OIP.0B8FoaGmIdKyEQwRSy26ngHaEK&pid=Api&P=0&h=220",
+                "caption": "This is the second slide"
+              },
+              {
+                "image":
+                  "https://tse3.mm.bing.net/th?id=OIP.U_VJuupQohwnzXcKMztqWgHaEo&pid=Api&P=0&h=220",
+                "caption": "This is the third slide"
+              },
+              {
+                "image":"https://tse4.mm.bing.net/th?id=OIP.HxV79tFMPfBAIo0BBF-sOgHaEy&pid=Api&P=0&h=220",
+                "caption": "This is the first slide"
+            },
+            {
+                "image":
+                  "https://tse3.mm.bing.net/th?id=OIP.0B8FoaGmIdKyEQwRSy26ngHaEK&pid=Api&P=0&h=220",
+                "caption": "This is the second slide"
+              },
+              {
+                "image":
+                  "https://tse3.mm.bing.net/th?id=OIP.U_VJuupQohwnzXcKMztqWgHaEo&pid=Api&P=0&h=220",
+                "caption": "This is the third slide"
+              },
+              {
+                "image":"https://tse4.mm.bing.net/th?id=OIP.HxV79tFMPfBAIo0BBF-sOgHaEy&pid=Api&P=0&h=220",
+                "caption": "This is the first slide"
+            },
+            {
+                "image":
+                  "https://tse3.mm.bing.net/th?id=OIP.0B8FoaGmIdKyEQwRSy26ngHaEK&pid=Api&P=0&h=220",
+                "caption": "This is the second slide"
+              },
+              {
+                "image":
+                  "https://tse3.mm.bing.net/th?id=OIP.U_VJuupQohwnzXcKMztqWgHaEo&pid=Api&P=0&h=220",
+                "caption": "This is the third slide"
+              }
+         ]
+    },
+    "accessories":{
+        "title":"Accessories",
+        "sunTitle":"Find the perfect accessory for your phone",
+        "options":["Samsung","Apple","MI","Baseus"],
+         "list":[
+            {
+                "image":"https://tse4.mm.bing.net/th?id=OIP.HxV79tFMPfBAIo0BBF-sOgHaEy&pid=Api&P=0&h=220",
+                "caption": "This is the first slide"
+            },
+            {
+                "image":
+                  "https://tse3.mm.bing.net/th?id=OIP.0B8FoaGmIdKyEQwRSy26ngHaEK&pid=Api&P=0&h=220",
+                "caption": "This is the second slide"
+              },
+              {
+                "image":
+                  "https://tse3.mm.bing.net/th?id=OIP.U_VJuupQohwnzXcKMztqWgHaEo&pid=Api&P=0&h=220",
+                "caption": "This is the third slide"
+              },
+              {
+                "image":"https://tse4.mm.bing.net/th?id=OIP.HxV79tFMPfBAIo0BBF-sOgHaEy&pid=Api&P=0&h=220",
+                "caption": "This is the first slide"
+            },
+            {
+                "image":
+                  "https://tse3.mm.bing.net/th?id=OIP.0B8FoaGmIdKyEQwRSy26ngHaEK&pid=Api&P=0&h=220",
+                "caption": "This is the second slide"
+              },
+              {
+                "image":
+                  "https://tse3.mm.bing.net/th?id=OIP.U_VJuupQohwnzXcKMztqWgHaEo&pid=Api&P=0&h=220",
+                "caption": "This is the third slide"
+              },
+              {
+                "image":"https://tse4.mm.bing.net/th?id=OIP.HxV79tFMPfBAIo0BBF-sOgHaEy&pid=Api&P=0&h=220",
+                "caption": "This is the first slide"
+            },
+            {
+                "image":
+                  "https://tse3.mm.bing.net/th?id=OIP.0B8FoaGmIdKyEQwRSy26ngHaEK&pid=Api&P=0&h=220",
+                "caption": "This is the second slide"
+              },
+              {
+                "image":
+                  "https://tse3.mm.bing.net/th?id=OIP.U_VJuupQohwnzXcKMztqWgHaEo&pid=Api&P=0&h=220",
+                "caption": "This is the third slide"
+              }
+         ]
+    },
+    "brand":{
+        "title":"BRANDS",
+        "sunTitle":"Your Favorite Brands, All in One Place",
+         "img":["../svg/brand_svg.svg"],
+         "brandList":["../svg/sale/brand_1_svg.svg","../svg/sale/brand_2_svg.svg","../svg/sale/brand_3_svg.svg","../svg/sale/brand_4_svg.svg","../svg/sale/brand_5_svg.svg","../svg/sale/brand_6_svg.svg","../svg/sale/brand_7_svg.svg","../svg/sale/brand_8_svg.svg","../svg/sale/brand_9_svg.svg"]
+    },
+    "about":{
+        "title":"ABOUT US",
+        "sunTitle":"Behind Every Success, There’s Us",
+        "text":"Founded in 2020 as most reliable online shopping place, LOGO (Owned by Best Cell Options Pvt. Ltd.) is one of the first brand in UAE to deliver authenticity and sell smart devices at great value. Today, we offer collections that are wide-ranging and varied for all ages. Our brand offers an eclectic mix of smart devices, accessories and all merchandise that are with the latest technologies and trends. We curate collections with a unique vision of what’s best for everyone without compromising onour vision to always offer inspiring brands with unbeatable value for money.",
+        "btnText":"Read more"
+    },
+    "companyDetail":{
+      "name":"#COMPANY NAME",
+      "thumnail":"ALWAYS ON YOUR SIDE WHEN YOU NEED HELP"
+    }
+}
